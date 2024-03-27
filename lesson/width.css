@@ -1,0 +1,9 @@
+.parent {
+  background-color: yellow;
+  width: auto;
+}
+.child {
+  background-color: orange;
+  width: 80%;
+  max-width: 600px;
+}

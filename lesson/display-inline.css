@@ -1,0 +1,18 @@
+p{
+  background-color: yellow;
+}
+#first{
+  background-color: lightblue;
+  margin: 20px;
+  padding: 0px 20px;
+}
+#second{
+  background-color: lightgreen;
+  margin: 30px;
+  padding: 0px 30px;
+}
+#third{
+  background-color: lightgray;
+  margin: 40px;
+  padding: 0px 40px;
+}
